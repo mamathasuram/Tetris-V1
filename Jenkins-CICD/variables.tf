@@ -15,7 +15,7 @@ variable "ami_id" {
   default     = "ami-03f4878755434977f"
 }
 variable "bucket_name" {
-  description = "The name of the S3 bucket to create"
+  description = "lappybuckets3"
   type        = string
   default     = "myempapp2023"
 }
